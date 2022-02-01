@@ -9,6 +9,10 @@
 |__/  \__/ \_______/|__/|__/     |__/|__/|__/  |__/ \_______/|__/      
 ```
 
+## Download
+
+[KeiMiner v1.0](https://github.com/keitechteam/keiminer/releases/tag/1.0)
+
 ## Description
 
 * Suitable for mining on [Ton Whales pool](https://tonwhales.com/docs/pool) only.
