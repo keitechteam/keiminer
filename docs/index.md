@@ -9,13 +9,13 @@
 |__/  \__/ \_______/|__/|__/     |__/|__/|__/  |__/ \_______/|__/      
 ```
 
-## Description
+### Description
 
 * Suitable for mining on [Ton Whales pool](https://tonwhales.com/docs/pool) only.
 * Platform: Windows only.
 * Fee: 1% (one share of every 100 shares goes to dev).
 
-## CLI options
+### CLI options
 
 * `-w`, `--wallet` - specify your wallet
 * `-d`, `--devices` - specify mining device IDs (space-separated)
