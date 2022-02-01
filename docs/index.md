@@ -11,8 +11,6 @@
 
 ## Description
 
-TON (The Open Network) cryptocurrency mining CLI application.
-
 * Suitable for mining on [Ton Whales pool](https://tonwhales.com/docs/pool) only.
 * Platform: Windows only.
 * Fee: 1% (one share of every 100 shares goes to dev).
