@@ -11,10 +11,13 @@
 
 ## Description
 
-TON (The Open Network) cryptocurrency mining CLI application.
+TON (The Open Network) cryptocurrency mining application.
 
+* Based on [TON team official solo miner](https://github.com/tontechio/pow-miner-gpu). 
 * Suitable for mining on [Ton Whales pool](https://tonwhales.com/docs/pool) only.
-* Platform: Windows only.
+* CPU and GPU mining support.
+* Both CLI and GUI versions available.
+* Platform: Windows only (Linux version coming soon).
 * Fee: 1% (one share of every 100 shares goes to dev).
 
 ## CLI options
@@ -27,3 +30,13 @@ Example run:
 ```
 keiminer.exe -w EQAAFhjXzKuQ5N0c96nsdZQWATcJm909LYSaCAvWFxVJP80D -d 0 1
 ```
+
+## Support
+
+* Telegram: [@keiminer](https://t.me/keiminer)
+
+## Troubleshooting
+
+1) 
+   * _Problem_: **Windows "VCRUNTIME140_1.dll not found" error**.
+   * _Solution_: Download and install the latest [Visual C++ Redistributable](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) package for your Windows version (32 or 64 bit).
