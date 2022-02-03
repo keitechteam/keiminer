@@ -39,6 +39,5 @@ keiminer.exe -w EQAAFhjXzKuQ5N0c96nsdZQWATcJm909LYSaCAvWFxVJP80D -d 0 1
 
 ## Troubleshooting
 
-1) _Problem_: **Windows "VCRUNTIME140_1.dll not found" error**.
-
-   _Solution_: Download and install the latest [Visual C++ Redistributable](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) package for your Windows version (32 or 64 bit).
+* _Problem_: **Windows "VCRUNTIME140_1.dll not found" error**.
+* _Solution_: Download and install the latest [Visual C++ Redistributable](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) package for your Windows version (32 or 64 bit).
