@@ -11,7 +11,7 @@
 
 ## Download
 
-[KeiMiner v1.1](https://github.com/keitechteam/keiminer/releases/tag/1.1)
+[KeiMiner v1.1.1](https://github.com/keitechteam/keiminer/releases/tag/1.1.1)
 
 ## Support
 
